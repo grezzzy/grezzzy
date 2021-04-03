@@ -1,4 +1,6 @@
-### Hi there! I'm Gabriel Gutierrez &nbsp; 👋  
+### Hi there! 👋
+```I'm Gabriel Gutierrez``` &nbsp;   
+
 &nbsp; &nbsp;[![LinkedIn](https://img.shields.io/badge/linkedIn%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrigutierrez/)](https://www.linkedin.com/in/gabrigutierrez/) &nbsp; [![Gmail](https://img.shields.io/badge/gMail%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:gabe.grez@gmail.com)](mailto:gabe.grez@gmail.com)
 
 💻 &nbsp; Full Stack Engineer  
