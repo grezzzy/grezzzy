@@ -5,7 +5,7 @@
 
 💻 &nbsp; Full Stack Engineer  
 🎾 &nbsp; Tennis Player  
-📍 &nbsp; Based in Sausalito, CA
+📍 &nbsp; Based in San Antonio, TX
 
 ### Languages & Tools
 
